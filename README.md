@@ -74,12 +74,7 @@ if (pelicula != null) {
 - **Robustez**: Manejo adecuado de errores y casos límite
 - **Modernidad**: Uso de características actuales de Java
 
-## 🔍 Aspectos Destacados para RRHH
-- Implementa **patrones de diseño** reconocidos en la industria
-- Demuestra capacidad de **integración con APIs externas**
-- Muestra dominio de **Java moderno** y sus características
-- Evidencia **pensamiento arquitectónico** y separación de capas
-- Incluye **documentación técnica** clara y profesional
+
 
 ---
 *Desarrollado como parte del curso de Alura - Screen Star War*
